@@ -44,6 +44,11 @@ The iostream library defines 4 main statements:
 - 'cerr' standard error (ostream)
 - 'clog' general information (ostream)
 
+## 5. Namespaces
+Namespaces are declerative regions that provides a scope to the identifiers (names of types, functions, variables) inside it. Used to organize code into logical groups, preventing name collisions that can occur, especially when the code base includes multiple libraries.
+
+The standard namespace (STD Namespace): the prefix 'std::' (e.g. 'std::cin' or 'std::cout')
+
 
 
 
